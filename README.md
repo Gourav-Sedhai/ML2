@@ -1,4 +1,4 @@
 # ML2
 Machine Learning with python
 ----------------------------
-Course in matplotlib, visualization with seaborn, 
+Course in matplotlib, visualization with seaborn, covariance and correlation.
